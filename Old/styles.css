@@ -1,0 +1,65 @@
+h3 {
+	text-align: center;
+	background-color: #E6E6E6;
+	
+}
+
+h1 {
+	text-align: center;
+}
+
+.center {
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.thumbnail {
+	width: 320px;
+	height: 240px;
+}
+.image {	width: width/12;	display: inline;	
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	transition: all 1s ease;
+	padding: 5px solid #000000;
+    border: 2px solid #000000;	
+}
+.image:hover {
+	-webkit-transform:scale(1.2);
+	-moz-transform:scale(1.2)'
+	-ms-transform:scale(1.2);
+	-o-transform:scale(1.2)'
+	transform:scale(1.2);
+}
+
+.NES {
+	width: 95%;
+	height: auto;
+	padding: 5px solid #000000;
+    border: 2px solid #000000;
+}
+
+.SNES {
+	width: auto;
+	height: auto;
+	padding: 5px solid #000000;
+    border: 2px solid #000000;		background: url("http://upload.wikimedia.org/wikipedia/commons/3/31/SNES-Mod1-Console-Set.jpg");
+}
+
+.N64 {
+	width: auto;
+	height: auto;
+	padding: 5px solid #000000;
+    border: 2px solid #000000;
+}
+
+.GameCube {
+	width: auto;
+	height: auto;
+	padding: 5px solid #000000;
+    border: 2px solid #000000;
+}
